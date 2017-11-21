@@ -18,5 +18,11 @@
   "homepage": "https://github.com/alter917/vue_test#readme",
   "dependencies": {
     "vue": "^2.5.7"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0"
+  },
+  "browser": {
+    "vue": "vue/dist/vue.common.js"
   }
 }
